@@ -5,8 +5,7 @@
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="TypeScript"
       />
@@ -15,8 +14,7 @@ width="32"
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="JavaScript"
       />
@@ -25,8 +23,7 @@ width="32"
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="React"
       />
@@ -36,8 +33,7 @@ width="32"
 <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Redux"
       />
@@ -47,8 +43,7 @@ width="32"
 <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Next"
       />
@@ -58,8 +53,7 @@ width="32"
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Tailwind"
       />
@@ -68,8 +62,7 @@ width="32"
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="SASS"
       />
@@ -78,8 +71,7 @@ width="32"
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="CSS"
       />
@@ -88,8 +80,7 @@ width="32"
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Html"
       />
@@ -98,22 +89,16 @@ width="32"
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Git"
       />
       <br /><strong style="font-size: 14px; ">Git</strong>
     </td>
-
-  </tr>
-
-  <tr>
     <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Node"
       />
@@ -122,8 +107,7 @@ width="32"
     <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Express"
       />
@@ -132,8 +116,7 @@ width="32"
     <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="PostgreSQL"
       />
@@ -142,8 +125,7 @@ width="32"
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Vite"
       />
@@ -153,8 +135,7 @@ width="32"
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Vitest"
       />
@@ -164,8 +145,7 @@ width="32"
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Jest"
       />
@@ -174,8 +154,7 @@ width="32"
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Webpack"
       />
@@ -184,8 +163,7 @@ width="32"
 <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Babel"
       />
@@ -194,8 +172,7 @@ width="32"
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Postman"
       />
@@ -205,8 +182,7 @@ width="32"
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="npm"
       />
@@ -216,8 +192,7 @@ width="32"
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Figma"
       />
@@ -227,8 +202,7 @@ width="32"
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="VS Code"
       />
@@ -238,12 +212,29 @@ width="32"
 <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-        style="margin-bottom: 8px"
-width="32"
+        width="32"
         height="32"
         alt="Illustrator"
       />
       <br /><strong style="font-size: 14px;">Illustrator</strong>
     </td> -->
   </tr>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th>Header 1</th>
+      <th>Header 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Data 1</td>
+      <td>Data 2</td>
+    </tr>
+    <tr>
+      <td>Data 3</td>
+      <td>Data 4</td>
+    </tr>
+  </tbody>
 </table>
