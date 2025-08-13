@@ -3,6 +3,42 @@
 <table>
 <tbody>
   <tr>
+   <!-- <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="32px"
+        height="32px"
+        alt="Node"
+      />
+      <br /><strong style="font-size: 14px;">Node</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="32px"
+        height="32px"
+        alt="Express"
+      />
+      <br /><strong style="font-size: 14px;">Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="32px"
+        height="32px"
+        alt="PostgreSQL"
+      />
+      <br /><strong style="font-size: 14px;">PostgreSQL</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
+        width="32px"
+        height="32px"
+        alt="Prisma"
+      />
+      <br /><strong style="font-size: 14px;">Prisma</strong>
+    </td>  -->
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
@@ -97,33 +133,7 @@
       />
       <br /><strong style="font-size: 14px; ">Git</strong>
     </td>
-    <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="32px"
-        height="32px"
-        alt="Node"
-      />
-      <br /><strong style="font-size: 14px;">Node</strong>
-    </td> -->
-    <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="32px"
-        height="32px"
-        alt="Express"
-      />
-      <br /><strong style="font-size: 14px;">Express</strong>
-    </td> -->
-    <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="32px"
-        height="32px"
-        alt="PostgreSQL"
-      />
-      <br /><strong style="font-size: 14px;">PostgreSQL</strong>
-    </td> -->
+
 </tr>
  </tbody>
   <tbody>
