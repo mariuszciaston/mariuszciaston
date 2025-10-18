@@ -1,8 +1,10 @@
 ## 🔧 Technologies & Tools
 
 <table>
-<tbody>
-  <tr>
+
+  <tbody>
+<tr>
+
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
@@ -13,15 +15,7 @@
      <br />
      <strong style="font-size: 14px;">TypeScript</strong>
     </td>
-<td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="32px"
-        height="32px"
-        alt="JavaScript"
-      />
-      <br /><strong style="font-size: 14px;">JavaScript</strong>
-    </td>
+
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -57,9 +51,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
         width="32px"
         height="32px"
-        alt="Tailwind"
+        alt="Tailwind CSS"
       />
-      <br /><strong style="font-size: 14px;">Tailwind</strong>
+      <br /><strong style="font-size: 14px;">Tailwind CSS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -69,6 +63,33 @@
         alt="SASS"
       />
       <br /><strong style="font-size: 14px;">SASS</strong>
+    </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="32px"
+        height="32px"
+        alt="Git"
+      />
+      <br /><strong style="font-size: 14px; ">Git</strong>
+    </td>
+    <!-- <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        width="32px"
+        height="32px"
+        alt="Material UI"
+      />
+      <br /><strong style="font-size: 14px;">Material UI</strong>
+    </td> -->
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="32px"
+        height="32px"
+        alt="JavaScript"
+      />
+      <br /><strong style="font-size: 14px;">JavaScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -88,25 +109,32 @@
       />
       <br /><strong style="font-size: 14px;">HTML</strong>
     </td>
-<td align="center" height="108" width="108">
+
+<!-- <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
         width="32px"
         height="32px"
-        alt="Git"
+        alt="Figma"
       />
-      <br /><strong style="font-size: 14px; ">Git</strong>
-    </td>
-    <!-- <td align="center" height="108" width="108">
+      <br /><strong style="font-size: 14px;">Figma</strong>
+    </td> -->
+
+  </tr>
+   </tbody>
+
+   <tbody>
+  <tr>
+   <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="32px"
         height="32px"
-        alt="Node"
+        alt="Node.js"
       />
-      <br /><strong style="font-size: 14px;">Node</strong>
-    </td> -->
-    <!-- <td align="center" height="108" width="108">
+      <br /><strong style="font-size: 14px;">Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="32px"
@@ -114,8 +142,8 @@
         alt="Express"
       />
       <br /><strong style="font-size: 14px;">Express</strong>
-    </td> -->
-    <!-- <td align="center" height="108" width="108">
+    </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="32px"
@@ -123,11 +151,27 @@
         alt="PostgreSQL"
       />
       <br /><strong style="font-size: 14px;">PostgreSQL</strong>
+    </td>
+     <!-- <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
+        width="32px"
+        height="32px"
+        alt="Prisma"
+      />
+      <br /><strong style="font-size: 14px;">Prisma</strong>
+    </td>  -->
+
+<!-- <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        width="32px"
+        height="32px"
+        alt="Docker"
+      />
+      <br /><strong style="font-size: 14px;">Docker</strong>
     </td> -->
-</tr>
- </tbody>
-  <tbody>
-<tr>
+
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
@@ -140,12 +184,12 @@
 
 <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
         width="32px"
         height="32px"
-        alt="Vitest"
+        alt="Webpack"
       />
-      <br /><strong style="font-size: 14px;">Vitest</strong>
+      <br /><strong style="font-size: 14px;">Webpack</strong>
     </td>
 
 <td align="center" height="108" width="108">
@@ -157,54 +201,27 @@
       />
       <br /><strong style="font-size: 14px;">Jest</strong>
     </td>
+
 <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg"
         width="32px"
         height="32px"
-        alt="Webpack"
+        alt="Vitest"
       />
-      <br /><strong style="font-size: 14px;">Webpack</strong>
+      <br /><strong style="font-size: 14px;">Vitest</strong>
     </td>
+
 <!-- <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="32px"
         height="32px"
-        alt="Babel"
+        alt="React Testing Library"
       />
-      <br /><strong style="font-size: 14px;">Babel</strong>
+      <br /><strong style="font-size: 14px;">React Testing Library</strong>
     </td> -->
-<td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
-        width="32px"
-        height="32px"
-        alt="Postman"
-      />
-      <br /><strong style="font-size: 14px;">Postman</strong>
-    </td>
 
-<td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="32px"
-        height="32px"
-        alt="npm"
-      />
-      <br /><strong style="font-size: 14px;">npm</strong>
-    </td>
-
-<td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-        width="32px"
-        height="32px"
-        alt="Figma"
-      />
-      <br /><strong style="font-size: 14px;">Figma</strong>
-    </td>
-    
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
@@ -215,6 +232,37 @@
       <br /><strong style="font-size: 14px;">VS Code</strong>
     </td>
 
+<!-- ----------- -->
+
+<!-- <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
+        width="32px"
+        height="32px"
+        alt="Babel"
+      />
+      <br /><strong style="font-size: 14px;">Babel</strong>
+    </td> -->
+<!-- <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
+        width="32px"
+        height="32px"
+        alt="Postman"
+      />
+      <br /><strong style="font-size: 14px;">Postman</strong>
+    </td> -->
+
+<!-- <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="32px"
+        height="32px"
+        alt="npm"
+      />
+      <br /><strong style="font-size: 14px;">npm</strong>
+    </td> -->
+
 <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
@@ -224,6 +272,7 @@
       />
       <br /><strong style="font-size: 14px;">Illustrator</strong>
     </td> -->
-  </tr>
-   </tbody>
+
+</tr>
+ </tbody>
 </table>
