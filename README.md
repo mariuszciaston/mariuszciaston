@@ -25,7 +25,6 @@
       />
       <br /><strong style="font-size: 14px;">React</strong>
     </td>
-
 <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
@@ -35,17 +34,24 @@
       />
       <br /><strong style="font-size: 14px;">Redux</strong>
     </td> -->
-
 <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
         width="32px"
         height="32px"
-        alt="Next"
+        alt="Next.js"
       />
-      <br /><strong style="font-size: 14px;">Next</strong>
+      <br /><strong style="font-size: 14px;">Next.js</strong>
     </td>  -->
-
+    <!-- <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg"
+        width="32px"
+        height="32px"
+        alt="Astro"
+      />
+      <br /><strong style="font-size: 14px;">Astro</strong>
+    </td>  -->
 <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
@@ -152,6 +158,15 @@
       />
       <br /><strong style="font-size: 14px;">Express</strong>
     </td>
+<!-- <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"
+        width="32px"
+        height="32px"
+        alt="NestJS"
+      />
+      <br /><strong style="font-size: 14px;">NestJS</strong>
+    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
@@ -230,8 +245,6 @@
       />
       <br /><strong style="font-size: 14px;">RTL</strong>
     </td>
-
-
 
 <!-- ----------- -->
 
