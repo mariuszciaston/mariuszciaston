@@ -53,9 +53,9 @@
         height="32px"
         alt="Tailwind CSS"
       />
-      <br /><strong style="font-size: 14px;">Tailwind CSS</strong>
+      <br /><strong style="font-size: 14px;">Tailwind</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
         width="32px"
@@ -63,7 +63,7 @@
         alt="SASS"
       />
       <br /><strong style="font-size: 14px;">SASS</strong>
-    </td>
+    </td> -->
         <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
@@ -108,6 +108,15 @@
         alt="Html"
       />
       <br /><strong style="font-size: 14px;">HTML</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        width="32px"
+        height="32px"
+        alt="VS Code"
+      />
+      <br /><strong style="font-size: 14px;">VS Code</strong>
     </td>
 
 <!-- <td align="center" height="108" width="108">
@@ -212,25 +221,17 @@
       <br /><strong style="font-size: 14px;">Vitest</strong>
     </td>
 
-<!-- <td align="center" height="108" width="108">
+<td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        src="https://testing-library.com/img/logo-large.png"
         width="32px"
         height="32px"
         alt="React Testing Library"
       />
-      <br /><strong style="font-size: 14px;">React Testing Library</strong>
-    </td> -->
-
-<td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-        width="32px"
-        height="32px"
-        alt="VS Code"
-      />
-      <br /><strong style="font-size: 14px;">VS Code</strong>
+      <br /><strong style="font-size: 14px;">RTL</strong>
     </td>
+
+
 
 <!-- ----------- -->
 
