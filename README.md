@@ -176,7 +176,7 @@
       />
       <br /><strong style="font-size: 14px;">PostgreSQL</strong>
     </td>
-     <!-- <td align="center" height="108" width="108">
+     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
         width="32px"
@@ -184,7 +184,7 @@
         alt="Prisma"
       />
       <br /><strong style="font-size: 14px;">Prisma</strong>
-    </td>  -->
+    </td> 
 
 <!-- <td align="center" height="108" width="108">
       <img
@@ -206,7 +206,7 @@
       <br /><strong style="font-size: 14px;">Vite</strong>
     </td>
 
-<td align="center" height="108" width="108">
+<!-- <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
         width="32px"
@@ -214,7 +214,7 @@
         alt="Webpack"
       />
       <br /><strong style="font-size: 14px;">Webpack</strong>
-    </td>
+    </td> -->
 
 <td align="center" height="108" width="108">
       <img
@@ -243,7 +243,7 @@
         height="32px"
         alt="React Testing Library"
       />
-      <br /><strong style="font-size: 14px;">RTL</strong>
+      <br /><strong style="font-size: 10px;">Testing Library</strong>
     </td>
 
 <!-- ----------- -->
