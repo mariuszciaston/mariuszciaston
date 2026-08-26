@@ -27,30 +27,12 @@
     </td>
 <!-- <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-        width="32px"
-        height="32px"
-        alt="Redux"
-      />
-      <br /><strong style="font-size: 14px;">Redux</strong>
-    </td> -->
-<!-- <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
         width="32px"
         height="32px"
         alt="Next.js"
       />
       <br /><strong style="font-size: 14px;">Next.js</strong>
-    </td>  -->
-    <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg"
-        width="32px"
-        height="32px"
-        alt="Astro"
-      />
-      <br /><strong style="font-size: 14px;">Astro</strong>
     </td>  -->
 <td align="center" height="108" width="108">
       <img
@@ -79,15 +61,6 @@
       />
       <br /><strong style="font-size: 14px; ">Git</strong>
     </td>
-    <!-- <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="32px"
-        height="32px"
-        alt="Material UI"
-      />
-      <br /><strong style="font-size: 14px;">Material UI</strong>
-    </td> -->
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -115,28 +88,22 @@
       />
       <br /><strong style="font-size: 14px;">HTML</strong>
     </td>
-    <td align="center" height="108" width="108">
+
+  <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
         width="32px"
         height="32px"
-        alt="VS Code"
+        alt="Vite"
       />
-      <br /><strong style="font-size: 14px;">VS Code</strong>
+      <br /><strong style="font-size: 14px;">Vite</strong>
     </td>
 
-<!-- <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-        width="32px"
-        height="32px"
-        alt="Figma"
-      />
-      <br /><strong style="font-size: 14px;">Figma</strong>
-    </td> -->
 
   </tr>
    </tbody>
+
+<!-- ----------- -->
 
    <tbody>
   <tr>
@@ -184,36 +151,16 @@
         alt="Prisma"
       />
       <br /><strong style="font-size: 14px;">Prisma</strong>
-    </td> 
-
-<!-- <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-        width="32px"
-        height="32px"
-        alt="Docker"
-      />
-      <br /><strong style="font-size: 14px;">Docker</strong>
-    </td> -->
-
-<td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
-        width="32px"
-        height="32px"
-        alt="Vite"
-      />
-      <br /><strong style="font-size: 14px;">Vite</strong>
     </td>
 
-<!-- <td align="center" height="108" width="108">
+  <!-- <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
         width="32px"
         height="32px"
-        alt="Webpack"
+        alt="Redis"
       />
-      <br /><strong style="font-size: 14px;">Webpack</strong>
+      <br /><strong style="font-size: 14px;">Redis</strong>
     </td> -->
 
 <td align="center" height="108" width="108">
@@ -246,18 +193,65 @@
       <br /><strong style="font-size: 10px;">Testing Library</strong>
     </td>
 
+  <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
+        width="32px"
+        height="32px"
+        alt="Webpack"
+      />
+      <br /><strong style="font-size: 14px;">Webpack</strong>
+    </td>
+
+</tr>
+ </tbody>
+
 <!-- ----------- -->
+
+ <tbody>
+
+<tr>
+
+<td align="center" height="108" width="108">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+        width="32px"
+        height="32px"
+        alt="Linux"
+        />
+      <br /><strong style="font-size: 14px;">Linux</strong>
+    </td>
 
 <!-- <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
         width="32px"
         height="32px"
-        alt="Babel"
+        alt="Figma"
       />
-      <br /><strong style="font-size: 14px;">Babel</strong>
+      <br /><strong style="font-size: 14px;">Figma</strong>
     </td> -->
-<!-- <td align="center" height="108" width="108">
+
+  <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
+        width="32px"
+        height="32px"
+        alt="Ubuntu"
+      />
+      <br /><strong style="font-size: 14px;">Ubuntu</strong>
+    </td>
+
+  <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        width="32px"
+        height="32px"
+        alt="VS Code"
+      />
+      <br /><strong style="font-size: 14px;">VS Code</strong>
+    </td>
+
+  <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"
         width="32px"
@@ -265,28 +259,77 @@
         alt="Postman"
       />
       <br /><strong style="font-size: 14px;">Postman</strong>
-    </td> -->
+    </td>
 
-<!-- <td align="center" height="108" width="108">
+  <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
         width="32px"
         height="32px"
-        alt="npm"
+        alt="ChatGPT"
       />
-      <br /><strong style="font-size: 14px;">npm</strong>
-    </td> -->
+      <br /><strong style="font-size: 14px;">ChatGPT</strong>
+    </td>
 
-<!-- <td align="center" height="108" width="108">
+  <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
+        src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
         width="32px"
         height="32px"
-        alt="Illustrator"
+        alt="Claude"
       />
-      <br /><strong style="font-size: 14px;">Illustrator</strong>
+      <br /><strong style="font-size: 14px;">Claude</strong>
+    </td>
+
+
+
+
+  <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+        "
+        width="32px"
+        height="32px"
+        alt="Gemini"
+      />
+      <br /><strong style="font-size: 14px;">Gemini</strong>
+    </td>
+
+
+  <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/en/a/aa/Microsoft_Copilot_Icon.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original"
+        width="32px"
+        height="32px"
+        alt="Copilot"
+      />
+      <br /><strong style="font-size: 14px;">Copilot</strong>
+    </td>
+
+
+
+
+  <!-- <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg"
+        width="32px"
+        height="32px"
+        alt="Astro"
+      />
+      <br /><strong style="font-size: 14px;">Astro</strong>
+    </td>  -->
+
+  <!-- <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        width="32px"
+        height="32px"
+        alt="Docker"
+      />
+      <br /><strong style="font-size: 14px;">Docker</strong>
     </td> -->
 
 </tr>
+
  </tbody>
 </table>
