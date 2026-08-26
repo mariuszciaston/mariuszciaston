@@ -262,7 +262,7 @@
 
   <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+        src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg"
         width="32px"
         height="32px"
         alt="ChatGPT"
@@ -272,7 +272,7 @@
 
   <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+        src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg"
         width="32px"
         height="32px"
         alt="Claude"
@@ -282,7 +282,7 @@
 
   <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+        src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg"
         width="32px"
         height="32px"
         alt="Gemini"
@@ -292,7 +292,7 @@
 
   <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/en/a/aa/Microsoft_Copilot_Icon.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original"
+        src="https://upload.wikimedia.org/wikipedia/en/a/aa/Microsoft_Copilot_Icon.svg"
         width="32px"
         height="32px"
         alt="Copilot"
