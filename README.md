@@ -99,7 +99,6 @@
       <br /><strong style="font-size: 14px;">Vite</strong>
     </td>
 
-
   </tr>
    </tbody>
 
@@ -281,20 +280,15 @@
       <br /><strong style="font-size: 14px;">Claude</strong>
     </td>
 
-
-
-
   <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
-        "
+        src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Google_Gemini_icon_2025.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
         width="32px"
         height="32px"
         alt="Gemini"
       />
       <br /><strong style="font-size: 14px;">Gemini</strong>
     </td>
-
 
   <td align="center" height="108" width="108">
       <img
@@ -305,9 +299,6 @@
       />
       <br /><strong style="font-size: 14px;">Copilot</strong>
     </td>
-
-
-
 
   <!-- <td align="center" height="108" width="108">
       <img
